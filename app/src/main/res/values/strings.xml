@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Bus Jam</string>
+    <string name="no_ads_remove_permanently">Remove ads permanently</string>
+    <string name="no_ads_price_label">Rs 3,000.00</string>
+    <string name="no_ads_active_label">Active</string>
+    <string name="unlock_slot_button">Unlock • 300 Coins</string>
+    <string name="unlock_slot_balance">Balance: %1$d coins</string>
+    <string name="win_perfect_title">Perfect!</string>
+    <string name="win_next_button">NEXT</string>
+    <string name="win_get_bonus_button">Get x20 400</string>
+    <string name="shop_top_banner_desc">Shop banner</string>
+    <string name="shop_close_desc">Close Shop</string>
+    <string name="shop_starter_pack_title">Starter Pack</string>
+    <string name="shop_starter_pack_price">Rs 550.00</string>
+    <string name="shop_claimed_label">Claimed</string>
+    <string name="shop_no_ads_title">No Ads</string>
+    <string name="shop_no_ads_price">Rs 2,200.00</string>
+    <string name="shop_no_ads_pack_title">No Ads Pack</string>
+    <string name="shop_no_ads_pack_price">Rs 3,350.00</string>
+    <string name="shop_small_pack_title">Small Pack</string>
+    <string name="shop_small_pack_price">Rs 2,800.00</string>
+    <string name="shop_rewarded_ads_note">REWARDED ADS WILL REMAIN AVAILABLE.</string>
+    <string name="shop_free_coins_title">Coin Chest &amp; Boosters</string>
+    <string name="shop_free_coins_btn">+100 Free</string>
+</resources>
